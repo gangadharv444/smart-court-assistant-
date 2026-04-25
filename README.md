@@ -74,14 +74,13 @@ streamlit run app.py
 The repo includes dummy PDFs:
 - `dummy_fir.pdf` — Sample FIR
 - `witness_statement.pdf` — Witness statement
-- `orfir.pdf` — Another FIR for conflict detection
 
 **Try these:**
 1. Go to **Case Analysis** tab
 2. Upload `dummy_fir.pdf`
 3. Ask: *"What is the timeline of events?"* or *"What crimes are mentioned?"*
 4. Go to **Conflict Detection** tab
-5. Upload both `dummy_fir.pdf` and `orfir.pdf`
+5. Upload both `dummy_fir.pdf` and `witness_statement.pdf`
 6. Click "Analyze" to see contradictions
 
 ---
@@ -132,7 +131,6 @@ smart-court-assistant-/
 ├── requirements.txt                # Python dependencies
 ├── dummy_fir.pdf                   # Sample FIR (for testing)
 ├── witness_statement.pdf           # Sample witness statement
-├── orfir.pdf                       # Sample FIR #2 (conflict testing)
 └── Vidhi_AI_Technical_Report.pdf   # Full technical documentation
 ```
 
@@ -229,7 +227,7 @@ You can use, modify, and distribute this freely (even commercially) as long as y
 ## 🙋 Questions?
 
 - **Technical Issues?** Open a [GitHub Issue](https://github.com/gangadharv444/smart-court-assistant-/issues)
-- **Want to Deploy?** Email: [your-email@example.com](mailto:your-email@example.com)
+- **Want to Deploy?** Email: [gangadharv.444@gmail.com](mailto:gangadharv.444@gmail.com)
 - **Feedback?** DM [@gangadharv444](https://github.com/gangadharv444)
 
 ---

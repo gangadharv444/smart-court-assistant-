@@ -285,7 +285,7 @@ Run: `pytest tests/ -v`
 streamlit run app.py
 
 # 2. Upload sample PDFs
-# dummy_fir.pdf, witness_statement.pdf, orfir.pdf
+# dummy_fir.pdf, witness_statement.pdf
 
 # 3. Test each feature:
 # - Case Analysis: Ask questions
