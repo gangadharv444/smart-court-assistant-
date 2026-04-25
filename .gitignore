@@ -1,0 +1,58 @@
+# =============================================================
+# Vidhi-AI | .gitignore
+# =============================================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# --- Virtual Environment ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- ChromaDB Vaults (large binary data) ---
+bns_vault/
+vidhi_vault/
+
+# --- Uploaded user documents ---
+.uploads/
+
+# --- Poppler binaries (not needed in repo) ---
+poppler-*/
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS Files ---
+Thumbs.db
+.DS_Store
+
+# --- Logs ---
+*.log
+vidhi_ai.log*
+
+# --- Backup of monolithic app ---
+app_monolithic_backup.py
+
+# --- Generated reports ---
+# Removed from gitignore so the technical report pushes to GitHub
+
+# --- Tesseract / OCR temp files ---
+*.tif
+*.tiff
+
+# --- Misc ---
+*.bak
+*.tmp

@@ -1,0 +1,67 @@
+{
+  "IPC 302": {
+    "BNS_Section": "BNS 103(1)",
+    "Description": "Murder",
+    "Legal_Context": "Punishment remains death or life imprisonment with fine. BNS 103(2) adds new offence of mob lynching."
+  },
+  "IPC 307": {
+    "BNS_Section": "BNS 109",
+    "Description": "Attempt to Murder",
+    "Legal_Context": "Punishment unchanged — up to 10 years; life imprisonment if hurt caused. Includes attempt by life convict."
+  },
+  "IPC 378": {
+    "BNS_Section": "BNS 303(1)",
+    "Description": "Theft (definition)",
+    "Legal_Context": "Definition retained; new sub-clause added for theft of electronic data."
+  },
+  "IPC 379": {
+    "BNS_Section": "BNS 303(2)",
+    "Description": "Theft (punishment)",
+    "Legal_Context": "Same punishment; now includes specific provision for snatching."
+  },
+  "IPC 415": {
+    "BNS_Section": "BNS 318(1)",
+    "Description": "Cheating (definition)",
+    "Legal_Context": "Definition of cheating retained from IPC with clearer language."
+  },
+  "IPC 420": {
+    "BNS_Section": "BNS 318(4)",
+    "Description": "Cheating and dishonestly inducing delivery of property",
+    "Legal_Context": "Consolidated with other fraud sections; punishment up to 7 years and fine."
+  },
+  "IPC 124A": {
+    "BNS_Section": "BNS 152",
+    "Description": "Sedition (now: Acts endangering sovereignty, unity and integrity of India)",
+    "Legal_Context": "Significantly reworded. Old 'sedition' replaced with broader sovereignty offence. Punishment up to 7 years or life imprisonment."
+  },
+  "IPC 375": {
+    "BNS_Section": "BNS 63",
+    "Description": "Rape (definition)",
+    "Legal_Context": "Expanded definition with additional aggravating factors specified."
+  },
+  "IPC 376": {
+    "BNS_Section": "BNS 64",
+    "Description": "Rape (punishment)",
+    "Legal_Context": "Minimum 10 years rigorous imprisonment; death penalty for repeat offenders or rape of minors under 12."
+  },
+  "IPC 34": {
+    "BNS_Section": "BNS 3(5)",
+    "Description": "Acts done by several persons in furtherance of common intention",
+    "Legal_Context": "Moved to General Explanations chapter; principle unchanged."
+  },
+  "IPC 120B": {
+    "BNS_Section": "BNS 61(2)",
+    "Description": "Criminal Conspiracy",
+    "Legal_Context": "Definition and punishment retained; now under chapter on abetment and conspiracy."
+  },
+  "IPC 499": {
+    "BNS_Section": "BNS 356",
+    "Description": "Defamation",
+    "Legal_Context": "Retained with same 10 exceptions. Punishment unchanged — up to 2 years, fine, or both."
+  },
+  "CrPC 154": {
+    "BNS_Section": "BNSS 173",
+    "Description": "First Information Report (FIR)",
+    "Legal_Context": "FIR can now be filed electronically; zero FIR provision added for filing at any police station regardless of jurisdiction."
+  }
+}
