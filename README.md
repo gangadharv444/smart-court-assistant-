@@ -4,7 +4,9 @@
 
 ## 🎥 See It In Action
 
-**[Watch Demo Video (3 min)](https://github.com/gangadharv444/smart-court-assistant-/raw/main/smart_court_assistant.mp4)** — Shows FIR analysis, timeline extraction, and conflict detection.
+[![Watch Demo Video](app_thumbnail.png)](https://youtu.be/OYREoWOqj_U)
+
+**[Watch Demo Video (3 min)](https://youtu.be/OYREoWOqj_U)** — Shows FIR analysis, timeline extraction, and conflict detection.
 
 ---
 
