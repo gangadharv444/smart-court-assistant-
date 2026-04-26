@@ -2,15 +2,15 @@
 
 **100% Offline · Zero Cloud APIs · Air-Gapped Courtroom Ready**
 
-Vidhi-AI is a fully offline, AI-powered legal assistant designed for the Indian judicial system. It runs entirely on a consumer laptop (16 GB RAM, CPU-only) using a local Llama-3 8B model via Ollama — no internet, no API keys, no cloud dependency.
-
-**Solves a critical problem:** FIRs contain sensitive witness names, addresses, victim details. Traditional legal AI sends this to OpenAI/Google → confidentiality breach. Vidhi-AI runs 100% locally. Your data NEVER leaves your judge's machine.
-
----
-
 ## 🎥 See It In Action
 
 **[Watch Demo Video (3 min)](https://github.com/gangadharv444/smart-court-assistant-/raw/main/smart_court_assistant.mp4)** — Shows FIR analysis, timeline extraction, and conflict detection.
+
+---
+
+Vidhi-AI is a fully offline, AI-powered legal assistant designed for the Indian judicial system. It runs entirely on a consumer laptop (16 GB RAM, CPU-only) using a local Llama-3 8B model via Ollama — no internet, no API keys, no cloud dependency.
+
+**Solves a critical problem:** FIRs contain sensitive witness names, addresses, victim details. Traditional legal AI sends this to OpenAI/Google → confidentiality breach. Vidhi-AI runs 100% locally. Your data NEVER leaves your judge's machine.
 
 ---
 
