@@ -10,9 +10,7 @@ Vidhi-AI is a fully offline, AI-powered legal assistant designed for the Indian 
 
 ## 🎥 See It In Action
 
-**[Watch Demo Video (2 min)](https://github.com/gangadharv444/smart-court-assistant-/blob/main/smart_court_assistant.mp4)** — See FIR analysis, timeline extraction, and conflict detection.
-
-[![Vidhi-AI Demo Thumbnail](app_thumbnail.png)](https://github.com/gangadharv444/smart-court-assistant-/raw/main/smart_court_assistant.mp4)
+**[Watch Demo Video (3 min)](https://github.com/gangadharv444/smart-court-assistant-/raw/main/smart_court_assistant.mp4)** — Shows FIR analysis, timeline extraction, and conflict detection.
 
 ---
 
